@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lat01</string>
+    <string-array name="kelas">
+        <item>SELECT</item>
+        <item>3SE1</item>
+        <item>3SE2</item>
+        <item>3SE3</item>
+        <item>3WD1</item>
+        <item>3WD2</item>
+        <item>3ISA</item>
+    </string-array>
+</resources>
